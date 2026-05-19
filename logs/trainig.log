@@ -1,0 +1,5 @@
+2026-05-19 22:27:26,082  - Using device: cpu
+2026-05-19 22:27:26,082  - Config: batch_size=64, lr=0.001, epochs=50, hidden=[256, 128]
+2026-05-19 22:27:26,083  - Loading MNIST data ...
+2026-05-19 22:27:26,305  - Train batches: 782, Val batches: 157
+2026-05-19 22:27:26,324  - Model: MLP — 235,914 parameters
